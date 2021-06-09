@@ -1,0 +1,1 @@
+# This repository contains the projects 0x00-shell_basics
