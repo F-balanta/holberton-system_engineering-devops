@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -man [[:digit:]]*
+ls -ma [[:digit:]]*
